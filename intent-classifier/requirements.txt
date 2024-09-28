@@ -1,0 +1,13 @@
+pandas==2.2.2
+pre-commit==3.8.0
+datasets==2.20.0
+transformers
+scikit-learn==1.5.1
+tqdm==4.66.4
+torch==2.4.0
+evaluate==0.4.2
+nltk==3.8.1
+accelerate
+tensorboardX==2.6.2.2
+tqdm
+openpyxl
