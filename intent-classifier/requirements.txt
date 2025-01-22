@@ -11,3 +11,4 @@ accelerate
 tensorboardX==2.6.2.2
 tqdm
 openpyxl
+mlflow
